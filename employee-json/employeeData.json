@@ -1,0 +1,28 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Bhoomika Singh",
+      "address": "Bellandur, Bangalore",
+      "position": "Software Engineer",
+      "email": "bhoomikasingh288@gmail.com",
+      "phone": "9953841759"
+    },
+    {
+      "id": 2,
+      "name": "Vertika Verma",
+      "address": "Lajpat Nagar, Delhi",
+      "position": "Product Manager",
+      "email": "vermavertika@gmail.com",
+      "phone": "9988710091"
+    },
+    {
+      "id": 3,
+      "name": "Sakshi Srivastava",
+      "address": " Oak Street, Lucknow",
+      "position": "UX Designer",
+      "email": "sakshisri@gmail.com",
+      "phone": "7731290655"
+    }
+  ]
+}
